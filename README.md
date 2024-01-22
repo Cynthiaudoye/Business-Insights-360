@@ -14,47 +14,19 @@ The development of this project was guided by the principles and techniques lear
 - **Live Report**: [View Live Report](https://app.powerbi.com/view?r=eyJrIjoiZjUyMDBjMzctZjM1My00OWIwLTg0NWQtYWRmZmQ3MjdmOGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-
-
-## Technology Stack Utilized
-
-The Business Insight 360 project leveraged a comprehensive suite of technologies and tools to ensure robust data analysis and insightful reporting:
-
-- **SQL**: Utilized for database querying and data manipulation, providing a solid foundation for data analysis.
-- **PowerBi Desktop**: Employed as the primary tool for creating interactive reports and dashboards.
-- **Microsoft Excel**: Used for preliminary data processing, analysis, and as a supplementary tool for data management.
-- **DAX Language**: Applied for advanced data calculations and expressions within PowerBi, enhancing the analytical capabilities of the reports.
-- **DAX Studio**: Implemented for report optimization, ensuring efficient performance and responsiveness of PowerBi reports.
-- **Project Charter Document**: A structured file used for outlining the project scope, objectives, and guidelines, ensuring a clear and organized project approach.
-
-These technologies were instrumental in building a comprehensive and efficient analytical platform for the AtliQ Hardware's data-driven decision-making process.
-
-
+## Technology Stack
+- SQL for data querying
+- PowerBi Desktop for reports
+- Excel for data processing
+- DAX for calculations and expressions
+- DAX Studio for optimization
 
 ## PowerBI Skills Acquired
-
-This project provided an opportunity to acquire and apply a diverse set of PowerBI techniques, essential for effective data analytics:
-
-- **Formulating Key Questions**: Identifying crucial questions to address before initiating the project.
-- **Calculated Columns Creation**: Developing calculated columns for enhanced data analysis.
-- **Measures with DAX Language**: Utilizing DAX (Data Analysis Expressions) language for creating measures.
-- **Data Modeling**: Structuring and organizing data effectively for analysis.
-- **Bookmarks for Visual Switching**: Employing bookmarks to seamlessly toggle between different visuals.
-- **Page Navigation via Buttons**: Implementing button-based navigation for user-friendly report interaction.
-- **Zero Division Error Prevention**: Using the 'divide' function to handle zero division scenarios.
-- **Date Table Creation with M Language**: Crafting date tables using M language for time-based analysis.
-- **Dynamic Report Titles**: Adjusting report titles dynamically based on applied filters.
-- **KPI Indicators Usage**: Incorporating Key Performance Indicators for goal tracking and performance measurement.
-- **Visuals Enhancement**: Applying conditional formatting to visuals with icons or background colors for better insights.
-- **Data Validation Methods**: Ensuring data accuracy and consistency through validation techniques.
-- **PowerBi Services Exploration**: Understanding and utilizing various PowerBi services.
-- **Report Publishing**: Learning the process of publishing reports to PowerBi services.
-- **Personal Gateway Setup**: Configuring personal gateway for automatic data refresh.
-- **PowerBi App Development**: Creating applications within PowerBi for a tailored analytics experience.
-- **Collaboration and Access Management**: Mastering workspace collaboration and access permission controls in PowerBi services.
-
-And much more, encompassing a wide array of PowerBi functionalities and best practices. 😅
-
+- Formulating project's key questions
+- Data modeling and visual creation
+- Implementing DAX for dynamic reporting
+- Enhancing visuals with conditional formatting
+- Utilizing PowerBi services for report publishing and collaboration
 
 
 ## Business Related Terms
@@ -84,17 +56,9 @@ The project encompassed a variety of key business terms, each playing a crucial 
 - **Consumer**: The end user or purchaser of the product or service.
 
 
-## Company Background: AltiQ Hardware
+## Company Background
+AltiQ Hardware has expanded globally, selling computer products via retailers, direct sales, and distributors. Facing challenges in the American market, the company established an analytics team for data-driven insights.
 
-AltiQ Hardware has experienced remarkable growth in recent years, expanding its global presence significantly. The company specializes in selling computers and computer accessories through three primary channels:
-
-- **Retailers**: Engaging with various retail partners for widespread distribution.
-- **Direct Sales**: Selling directly to consumers, offering a more personalized purchasing experience.
-- **Distributors**: Utilizing a network of distributors to reach a broader market base.
-
-Despite this expansion, AltiQ Hardware encountered a significant setback with its venture into the American market. This unforeseen loss was partly attributed to decisions made based on traditional methods like surveys, intuition, and basic Excel analysis. Furthermore, the company realized that its competitors were gaining an edge through robust analytics teams capable of making data-driven decisions.
-
-Recognizing the need to adapt, AltiQ Hardware decided to establish its own analytics team. This strategic move is aimed at harnessing the power of data for more informed decision-making and sustaining a competitive position in the industry. This decision marked the beginning of a new chapter, focusing on building a data-centric approach for future business operations and strategies.
 
 ### Project Kick-Off
 The project kick-off session is pivotal in setting the stage for this transformation. It provides an opportunity to gain clarity on the project's objectives, understanding the 'what' and 'why', and addressing any queries related to the project's scope and goals.
